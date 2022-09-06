@@ -331,3 +331,36 @@ git --version
 sudo hostname dev
 sudo su - simon
 sudo su - kunle
+clear
+git status
+clear
+git add
+git add .
+git status
+git log
+git config --global user.EAdeoti
+git config --global --list
+git commit -m "my first commit"
+git log
+clear
+vi deploy.spy
+sh deploy.spy
+vi deploy.spy
+sh deply.spy
+sh deploy.spy
+clear
+vi cases
+ls
+test.casess
+git status
+git add cases
+git status
+git add deploy.spy
+git status
+git add .viminfo
+git status
+git commit -m "tolls added"
+git commit --amend --reset-author
+clear
+sudo hostname dev
+sudo su kunle
