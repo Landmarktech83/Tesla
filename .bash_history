@@ -364,3 +364,66 @@ git commit --amend --reset-author
 clear
 sudo hostname dev
 sudo su kunle
+clear
+sudo add hostname
+sudo passwd kunle
+git commit -m "tools added"
+git add .
+git aa "tools added"
+git add "tools added"
+clear
+git status
+git restore --staged
+git restore --staged cases
+git status
+git restore --staged deploy.spy
+ls
+git status
+git add .bash_history
+git status
+git log
+gitcommit -m "tools added"
+git commit -m "Tools added"
+git config --global user kunle
+git commit --global user.EAdeoti
+git config --global user kunleclear
+clear
+git status
+git config --global user.EAdeoti
+git config --global user.EAdeoti@gmail.com
+git commit -m "my first commit"
+git log
+git status
+git add .
+git add *
+git commit -m "db connection"
+git push
+clear
+echo cases
+echo test.sh
+vi deply.py
+sh deply.py
+git status
+git add deply.sh
+git add deply.py
+ls
+git status
+git add .viminfo
+git add cases
+git status
+git commit -m "deployment file added"
+git commit --amend --reset-author
+git status
+git commit -m "deployment file added"
+git log
+clear
+git log
+clear
+git cases
+git log
+clear
+git add .
+git add *
+git status
+git log
+ git show

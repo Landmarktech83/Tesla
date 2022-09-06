@@ -1,0 +1,26 @@
+[33mcommit 299748f3f482e4dff71367ee9f1f6a1c15e2a07d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ec2-user <ec2-user@ip-172-31-5-205.us-east-2.compute.internal>
+Date:   Tue Sep 6 16:48:03 2022 +0000
+
+    deployment file added
+    
+    git config --global user.EAdeoti
+    git confi --global user.EAdeoti@gmail.com
+
+[33mcommit b255ab4fada390b7213a3bb4bbd4a029b012a388[m
+Author: ec2-user <ec2-user@ip-172-31-5-205.us-east-2.compute.internal>
+Date:   Tue Sep 6 16:26:19 2022 +0000
+
+    Tools added
+
+[33mcommit 267848870455843d64323a3c84fe6c57f9b731a4[m
+Author: ec2-user <ec2-user@ip-172-31-5-205.us-east-2.compute.internal>
+Date:   Tue Sep 6 15:48:31 2022 +0000
+
+    tools added
+
+[33mcommit ee962aed002b23684a247f22480cdb2b1656582b[m
+Author: ec2-user <ec2-user@ip-172-31-5-205.us-east-2.compute.internal>
+Date:   Tue Sep 6 15:21:35 2022 +0000
+
+    my first commit
