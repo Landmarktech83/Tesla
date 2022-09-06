@@ -364,6 +364,7 @@ git commit --amend --reset-author
 clear
 sudo hostname dev
 sudo su kunle
+<<<<<<< HEAD
 clear
 sudo add hostname
 sudo passwd kunle
@@ -698,3 +699,52 @@ git checkout master
 clear
 git log
 git diff stage
+=======
+>>>>>>> b255ab4 (Tools added)
+clear
+vi users.java
+~/.viminfo
+sudo ~/.viminfo
+~/.viminfo
+vi ~/.viminfo
+clear
+vi secret.sh
+vi data.yml
+clear
+git stash apply
+git status
+git .data.yml.swp
+git data.yml
+git secret.sh
+git users.java
+git --help
+git commit -m secret.sh
+git checkout master
+git add secret.sh
+git add .data.yml.swp
+git add Master-Card/
+git add users.java
+git checkout master
+git commit -m -a .bash_history
+git checkout master
+git log
+git status
+git commit -m -a .data.yml.swp && secret.sh
+git commit -m -a secret.sh
+git commit -m -a users.java
+git log
+git status
+git commit -a -m "backup completed"
+git stash list
+git stash drop
+git stash list
+git log
+git cherry-pick  9e13ac0
+git cherry-pick  b255ab4fada390b7213a3bb4bbd4a029b012a388
+clear
+CLEAR
+clear
+git remote -v
+ls $Home/.ssh
+ssh-keygen
+ls
