@@ -1,0 +1,7 @@
+#!/bin/sh
+ # this script will install an d start the apache http webserver
+sudo yum install httpd -y
+sudo systemct1 start httpd
+sudo systemct1 enable httpd
+systemct1 status httpd	
+
