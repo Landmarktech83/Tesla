@@ -427,3 +427,106 @@ git add *
 git status
 git log
  git show
+clear
+vi deploy.py
+sh deploy.py
+vi deploy.py
+sh deploy.py
+vi deploy.py
+sh deploy.py
+vi deploy.py
+sh deploy.py
+cat deply.py
+sudo yum install python3 
+sudo yum instal python3
+sudo yum install python3
+clear
+print('Hello world')
+print("hello world")
+print 'hello world'
+print( 'hello world' )
+vi deploy.py
+sh deploy.py
+python deploy.py
+python3 deploy.py
+vi deploy.py
+python3 deploy.py
+vi deploy.py
+python3 deploy.py
+clear
+git status
+git add status
+git status
+git restore --staged status
+git status
+git add status
+git status
+git restored status
+git restore status
+git status
+git restore  --staged status
+git status
+touch app.java
+git status
+clear
+git add . && git commit -m " version2"
+git commit -m app.java
+git status
+clear
+git log
+clear
+git add .
+Git add *
+git add *
+git status
+git restore --staged .lesshst
+git add . && git commit -m " version2 "
+clear
+git log
+git show 299748f
+clear
+git status
+clear
+echo "# Master-card >> Readme.md
+git init
+git add Readme.md
+git commit -m "first commit"
+git branch -m main
+git remote add origin https://github.com/EAdeoti/master-card.git
+
+git log
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+git status
+clear
+git statu
+git status
+git log
+clear
+git remote add vs https://EAdeoti/github.com/master-card/git
+git remote -v
+git push vs master
+git fetch -v
+git remote -v
+git push vs master
+git fetch va master
+clear
+git tetch vs master
+git fetch vs master
+git remotenadd origin https://github.com/master-card/git
+git remote add origin https://github.com/master-card/git
+git remote -v
+git push origin master
+clear
+git push origin master
