@@ -530,3 +530,44 @@ git remote -v
 git push origin master
 clear
 git push origin master
+clear
+git commit -m "my first commit"
+git add "my first commit"
+git add test.java
+mkdir visa
+vi test.cases
+cat test.cases
+cat test
+ls
+git init
+clear
+git config --global EAdeoti
+git config -- global username EAdeoti
+sudo yum install git
+git add .
+git add test.java
+git add test.cases
+git config --global --list
+git log
+git config --global user.EAdeoti
+git config --global user.EAdeoti@gmail.com
+git config --global --list
+t commit -m"db connection"
+git commit -m
+git commit -m "db connection"
+git commit --amend --reset-author
+clear
+git confih --global user.landmarktech83
+git config --global user.landmarktech
+git config --global user.landmarktech83
+git config --global useremail.landmarktech83@gmail.com
+git add Tesla
+git vonfig --global --list
+git commit -m "my first commit"
+clear
+git remote add vs https://github.com/landmarktech83/Tesla.git
+clear
+sudo su - kunle
+clear
+sudo su -ec2-user
+sudo su - ec2-user
