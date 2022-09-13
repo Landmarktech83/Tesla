@@ -594,3 +594,32 @@ git push -u origin main
 git push -u https://github.com/landmark83/Tesla.git
 git push -u https:/github.com/landmark83/Tesla.git
 git push -u https://github.com/landmark83/Tesla.git
+clear
+git push
+git push --set-upstream origin master
+git push origin https:??github.com/EAdeoti/master-card/git
+git push https://github.com/EAdeoti/master-card/git
+vs-https://EAdeoti/github.com/master-card/git
+git push vs master
+git commit -m "db connection"
+git add .bash_history
+git commit -m "db connection"
+git push https://github.com/landmark83/Tesla.git
+clear
+git remote add Tesla https://github.com/landmark83/Tesla.git
+git push Tesla master
+git remote add origin https://github.com/EAdeoti/Visa.git
+git push origin master
+clear
+git push origin maaster
+git push origin master
+git push Tesla master
+git remote add origin https://github.com/EAdeoti/Visa.git
+git remote add tt https://github.com/EAdeoti/Visa.git
+git push tt master
+ls
+git log
+clear
+git pull tt master
+git fetch tt master
+git diff tt/master
