@@ -623,3 +623,20 @@ clear
 git pull tt master
 git fetch tt master
 git diff tt/master
+clear
+git merge tt/master
+touch .classpath .project && node_modules
+touch .classpath .project && mkdir node_modules
+touch .gitignore
+ls -a
+git status
+mv .classpath .gitignore
+mv .project .gitignore
+cat ,gitignore
+cat .gitignore
+clear
+git add .
+git commit -m ".gitignore file created"
+git dtatus
+git status
+git log
