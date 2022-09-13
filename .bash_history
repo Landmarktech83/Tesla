@@ -571,3 +571,26 @@ sudo su - kunle
 clear
 sudo su -ec2-user
 sudo su - ec2-user
+clear
+git commit -a -m app.java
+git commit --amend --reset author
+git config --global user.EAdeoti
+git config --global user.Adeoti@gmail.com
+git commit -m "my first commit"
+git add deploy.sh
+git commit -m "my first commit"
+git commit -m "db connection"
+git show commit -ID
+git status
+git log 
+git show 
+git show 784f1b6 
+git remote add kunle
+git remote add vs https://github.com/landmark83/visa
+git remote add vs https://github.com/landmark83/Tesla.git
+git remote -v
+git remote add origin https://github.com/landmark83/Tesla.git
+git push -u origin main
+git push -u https://github.com/landmark83/Tesla.git
+git push -u https:/github.com/landmark83/Tesla.git
+git push -u https://github.com/landmark83/Tesla.git
