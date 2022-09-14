@@ -640,3 +640,17 @@ git commit -m ".gitignore file created"
 git dtatus
 git status
 git log
+clear
+git show 
+git status
+git commit -a -m "dev env development"
+config --global user.EAdeoti
+git config --global user.EAdeoti && git config --globsl user.EAdeoti@gmail.com
+git commit --amend --reset-author
+git commit -a -m "master deployment"
+git checkout master
+vi deploy.sh
+git status
+git commit -a -m "master deployment"
+git status
+git diff dev
