@@ -624,6 +624,7 @@ git pull tt master
 git fetch tt master
 git diff tt/master
 clear
+<<<<<<< HEAD
 git merge tt/master
 touch .classpath .project && node_modules
 touch .classpath .project && mkdir node_modules
@@ -654,3 +655,22 @@ git status
 git commit -a -m "master deployment"
 git status
 git diff dev
+=======
+git branch
+git branch dev
+git branch
+ls
+git status
+git add .bash_history
+git status
+git commit -a .bash_history
+git commit -a
+git status
+git checkout dev
+git branch
+ls
+vi deploy.sh
+cat deploy.sh
+git log
+clear
+>>>>>>> dev
