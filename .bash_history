@@ -674,3 +674,50 @@ cat deploy.sh
 git log
 clear
 >>>>>>> dev
+clear
+git dev -m "merging"
+git merge dev -m "merging"
+ git commit -m .bash_history
+git add .bash_history
+git commit -m .bash_history
+git merge dev -m "merging"
+vi deploy.sh
+git status
+git commit -m "conflict resolved"
+git commit -a -m "conflict resolved"
+git diff dev
+clear
+git log
+clear
+contact -e
+clear
+git branch
+git branch -d dev
+git branch
+git branch development
+git branch stage
+git branch development
+git branch
+ls
+git checkout development
+ls
+git checkout stage
+clear
+git branch
+git status
+touch info.dev
+git status
+vi .bash_history
+clear
+vi .bash_history
+clear
+whoami
+clear
+whoami
+sudo su simon
+sudo su kunle
+clear
+sudo visudo
+clear
+/etc/sudoers
+sudo -i
