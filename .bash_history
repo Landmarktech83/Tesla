@@ -674,3 +674,27 @@ cat deploy.sh
 git log
 clear
 >>>>>>> dev
+clear
+git checkout stage
+vi Monitor.app
+git branch
+git status
+git add Monitor.app
+git status
+git commit -a -m monitor.app
+git status
+clear
+git commit -a -m "dyrantrace added for APM"
+git checkout master branch
+git checkout
+git checkout master
+git check branch
+git checkout branch
+git checkout branch master
+git check stage
+git checkout stage
+git branch stage
+git checkout master
+clear
+git log
+git diff stage
