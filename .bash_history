@@ -731,3 +731,19 @@ clear
 vi deploy
 clear
 vi deploy.sh
+git status
+git commit -a -m .deploy.sh.swo && .deploy.sh.swp && .deploy.swp
+vi deploy.sh
+vim deploy.sh
+git status
+git commit -a -m "deplyment to the staging environment"
+git commit -a -m "tested and Approved by the Client"
+git add .deploy.sh.swo
+git add .deploy.sh.swp
+git add .deploy.swp
+git status
+git commit -a -m .deploy.sh.swo
+git commit -a -m .deploy.sh.swp
+git commit -a -m .deploy.swp
+git commit -a -m "Tested and Approved by the client QA team"
+git log
