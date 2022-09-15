@@ -721,3 +721,13 @@ sudo visudo
 clear
 /etc/sudoers
 sudo -i
+clear
+git status
+git commit -a -m info.dev
+git status
+clear
+git log
+clear
+vi deploy
+clear
+vi deploy.sh
