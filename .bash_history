@@ -747,3 +747,46 @@ git commit -a -m .deploy.sh.swp
 git commit -a -m .deploy.swp
 git commit -a -m "Tested and Approved by the client QA team"
 git log
+clear
+git commit -a -m "info_developers ignored"
+git config --global user.EAdeoti
+git config --global user.EAdeoti@gmail.com
+git commit --amend --reset-author
+clear
+git commit -a -m info.dev
+git add info.dev
+clear
+git checout stage
+git checkout stage
+git commit -a -a .bash_history
+git commit -a -m .bash_history
+git checkout stage
+git status
+merge conflict in deploy.sh
+clear
+git log
+clear
+git push origin --all
+git push vs master
+git push stage
+git push origin stage
+git push remoteRepo stage
+git remote add origin https://github.com/EAdeoti/visa.git
+git remote add origin https:://github.com/landmarktech83/Tesla.git
+clear
+git push tt master
+git remote add tt stage
+git push tt stage
+git push tt development
+clear
+git clone https://github.com/EAdeoti/Master-Card.git
+git clone https://github.com/EAdeoti/Visa
+git clone https://github.com/EAdeoti/Visa.git
+clear
+git branch bug_fix_145
+git checkout bug_fix_landmark_145
+git branch bug_fix_landmark_145
+git checkout bug_fix_landmark_145
+ls
+vi app.py
+git log
